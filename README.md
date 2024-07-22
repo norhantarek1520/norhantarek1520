@@ -5,14 +5,13 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 -->
 <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=900&t=st=1700730454~exp=1700731054~hmac=f529880fd03e39dfcdb02d470b08205ad1a0a5b760969139264312b62e54eef0" align="right" width="40%"/>
-<p> -🔭 I am a Node JS Backend Engineer . </p>
-<p> -🔭a student at the Faculty of Computers and Artificial Intelligence, Helwan university , CS department </p>
+<p> -🔭 I am a Node JS Backend Engineer. </p>
+<p> -🔭I graduated from Helwan University, Faculty of Computers and Artificial Intelligence, 2020|2024 </p>
 <p> -🔭Strong command of backend technologies, including Express.js, MongoDB And MySQL . </p>
 
 #
 
 # Talking about Personal Stuffs:
-- 👨🏽‍💻 I’m currently a CS student at my 4th year; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
@@ -29,7 +28,12 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> 
   </div>
   </p>
-
+#
+## 💻 Tech Stack
+- Languages: `Nodejs` `JavaScript` `SQL`
+- Frameworks: `Nodejs Express`
+- Databases:  `MySQL`  `MongoDB`
+- Tools & Technologies: `Git` `Docker` `RESTful APIs` `Postman`
 #
 # Contact me:
 - Linkedin : https://www.linkedin.com/in/norhan-tarek-15720n/
