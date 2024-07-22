@@ -29,17 +29,21 @@
   </div>
   </p>
 #
-## 💻 Tech Stack
+# 💻 Tech Stack
 - Languages: `Nodejs` `JavaScript` `SQL`
 - Frameworks: `Nodejs Express`
 - Databases:  `MySQL`  `MongoDB`
 - Tools & Technologies: `Git` `Docker` `RESTful APIs` `Postman`
+
 #
+
 # Contact me:
 - Linkedin : https://www.linkedin.com/in/norhan-tarek-15720n/
 - Email: norhantarek1520@gmail.com
 - Github(university) :https://github.com/NourhanTarek1520
+
 #
+
 # Problem Solving :
 - Leetcode : https://leetcode.com/NorhanTarek157/
 - Codeforces : https://codeforces.com/profile/Norhan_Tarek
