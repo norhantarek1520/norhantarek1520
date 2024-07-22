@@ -29,11 +29,12 @@
   </div>
   </p>
 #
-# 💻 Tech Stack
-- Languages: `Nodejs` `JavaScript` `SQL`
-- Frameworks: `Nodejs Express`
-- Databases:  `MySQL`  `MongoDB`
-- Tools & Technologies: `Git` `Docker` `RESTful APIs` `Postman`
+
+## 💻 Tech Stack
+  - Languages: `Nodejs` `JavaScript` `SQL`
+  - Frameworks: `Nodejs Express`
+  - Databases:  `MySQL`  `MongoDB`
+  - Tools & Technologies: `Git` `Docker` `RESTful APIs` `Postman`
 
 #
 
